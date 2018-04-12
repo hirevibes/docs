@@ -166,6 +166,8 @@ Using [WeForst.org](http://weforst.org) (who can plant 1 tree for 1 euro) as a b
 | No of Trees planted @ €1|625|2500| 30,000|
 |100 HV Recruiters| 62,500 | 250,000 |3,000,000|
 
+`= 1 HireVibe Recruiter can help plant 500 trees per week and 30,000 per year.`
+
 Using WellsForZoe as a beneficiary of the 1% donation fund (who can construct a well in East Aftrica for €250 to provide water to 300 people for life) 
 
 | 1. Recruiter        | Weekly           | Monthly  | Annually  |  
