@@ -14,15 +14,15 @@ A decentralized jobs platform powered by crowdsourcing — Using economic and en
 6. [Value proposition](#6-value-proposition)
 7. [Hiring Manager experience and benefits](#7-hiring-manager-experience-and-benefits) 
 8. [Employer branding: Merging Hiring with CSR](#8-employer-branding-merging-hiring-and-csr)
-9. Donation tracking
-10. Growth model
-11. Marketing strategy
-12. Positive Impact Projections
-13. Primary target market
-14. Comparing Resources available to HireVibes Dapp v Centralised Agencies
-15. HireVibes Token (HVT) model
-16. HireVibes Dapp Governance layer proposal
-17. HV Foundation
+9. [Donation tracking](#9-donation-tracking)
+10. [Growth model](#10-growth-model)
+11. [Marketing strategy](#11-marketing-strategy)
+12. [Positive Impact Projections](#12-positive-impact-projections-generated-from-hirevibes-dapp-donation-portal)
+13. [Primary target market](#13-primary-target-market)
+14. [Comparing Resources available to HireVibes Dapp v Centralised Agencies](#14-comparison-of-the-resources-available-to-hirevibes-v-centralised-agencies)
+15. [HireVibes Token (HVT) model](#15-hirevibes-token-model)
+16. [HireVibes Dapp Governance layer proposal](#16-hirevibes-dac-governance-layer-proposal)
+17. [HV Foundation](#17-hirevibes-foundation-tbc)
 
 ## 1. Introduction
 
