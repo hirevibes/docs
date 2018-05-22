@@ -135,11 +135,89 @@ These organisations that actively demonstrate their values and commitment to car
 All recipients of donations will be required to provide proof of how the donation was spent as part of the smart contract agreement. 
 
 ## 10. Growth Model 
-To drive new hirers to HireVibes Jobs Dapp, the HireVibes Foundation or HireVibes DAC (TBC) will grow a team of recruitment facilitators (called HireVibe Recruiters) to work remotely off HireVibes. 
+The quantity of Job Openings listed on HireVibes Dapp will grow overtime due to:
 
-HireVibe Recruiters will be incentivised to grow their own network and business within the wider HireVibes network by building relationships with their local talent and local employers to facilitate their hiring needs via HireVibes Dapp. Remote HireVibe Recruiters will also be targeted and measured to also add employers to HireVibes Dapp who do not require a facilitation service from the HireVibe Recruiter team. If an employer does require facilitation, HireVibe Recruiters will be available to assist for an added fee [min 2.5% - max 5%]. The exact fee can be agreed between the HireVibe Recruiter and the employer.
+1. Hirer Referral Reward Proposal 
+- A one-off 2% HVT reward to every user that refers a Hirer that successfully recruits on HireVibes Dapp ([Hirer Referral Reward](hirer-referral-reward.md))
+2. Inbound marketing 
+- The Candidate Referrals Rewards on offer are a natural way to attract new users to HireVibes Dapp
+Showing statistics and content of the HireVibes Donation portal impact across social media
+3. Growing a Decentralised Recruiting Team 
+- Please see below
 
-This additional facilitation service by a Remote HireVibe Recruiter will bring the total cost to the employer to 10% - 12.5% of the salary / rate of the job in question. This is still significantly less than the global average fee charged by traditional centralised employment agencies of 15% - 30%+ on Permanent and Contract job fills. 
+## Decentralised Recruiting Team (DRT) (Similar to a Customer Service Team)
+
+### **1.Why?**
+Originally we stated in HireVibes whitepaper; we stated that we (the HireVibes Launch Team) were envisaging the HireVibes DAC or HV Foundation would grow a team of Recruitment Facilitators to be listed and available to facilitate any Hirer’s needs on HireVibes Dapp.
+
+Freelancer.com for example have an option to help Hirers with recruiting the best candidates for an extra fee. HireVibes Dapp will offer a similar service as some Hirers will require it.
+
+However, as our team that are building the HireVibes Dapp open source software are decentralisation enthusiasts; we were concerned at the potential of the Recruitment Facilitator Team becoming a centralised function; within the overall decentralised HireVibes and EOS.IO ecosystem. 
+
+For this reason, we are going to design and built this **Decentralised Recruiting Team** into the HireVibes Dapp open source software from the very beginning. With that, we have also created a Quality Control System to ensure the quality of the DRT service increases overtime.
+
+### **2. Hiring Recruitment Facilitators**
+
+* Any and all users interested to become a Recruitment Facilitator on HireVibes Dapp can sign up and become one by agreeing to all the terms and conditions and Constitutions of HireVibes Dapp and EOS.IO software.
+* All Recruitment Facilitators will have an open profile and be Reputation based. As all users must agree to all EOS.IO and HV constitutions, terms and conditions; good behaviour can be expected. For any bad behaviour and dispute resolution, HireVibes Dapp users can utilise the built-in EOS Arbitration system.
+
+### **3. Matching Hirers with Recruitment Facilitators:**
+* HireVibes Dapp will provide an option to all Hirers when posting job ads asking if they would like to engage the services of a Recruitment Facilitator for an added 2.5% token amount. (Bringing the total cost to a 10% token amount)
+* If a facilitation service is required, HireVibes Dapp will automatically choose the best Recruitment Facilitator based on reviews, areas of specialism etc and present this to the Hirer. An advanced option will also become available to enable a Hirer to choose their preferred Recruitment Facilitator manually.
+
+### **4. Recruitment Facilitator Tasks**
+
+1. Find new Hirer’s, communicate the HireVibes value proposition and encourage them to join HireVibes Dapp and post new jobs openings 
+2. Offer a Facilitation Service where required for added 2.5% token amount (Recruitment Facilitators will get 2%, the remaining 0.5% token amount will go to a smart contract to fund the Quality Control System explained below)
+3. If engaged to provide a Facilitation Service, a Recruiter listed on HireVibes Dapp may be asked to:
+- Screen applicant CV’s 
+- Provide a shortlist of the best suited candidates and why
+- Source externally of HireVibes Dapp (However all applications must be submitted within HireVibes Dapp)
+- Check references 
+- Offer negotiation 
+- Follow up with new hires to ensure the placed candidate have a smooth onboarding 
+
+ ### **5. Ensuring the Quality of Recruitment Facilitators rises overtime**
+
+As this system would be very open; we have designed a Quality Control system to be implemented to HireVibes Dapp once it launches. 
+
+1. This system is designed to ensure a gradual rise in the quality of all Recruitment Facilitators service on HireVibes Dapp overtime, without any central party managing it.
+2. This system will also ensure that the best Recruitment Facilitators on HireVibes Dapp get recognition and rewarded by the community.
+3. Elements of this has been inspired by ‘Lunyr’ - which is an Ethereum based equivalent of Everipedia which is launching on EOS. Their model ensures a consistent rise in the quality of Reviewers who Peer Review articles overtime (https://www.lunyr.com/) 
+4. The HireVibes model contains layers of gamification to incentivise the Decentralised Recruiting Team to self-regulate, grow organically and improve in quality overtime.
+
+### **6. Decentralised Recruitment Team -  Quality Control System + Growth model**
+
+1. **Model structure**
+
+- The first 100 Recruitment Facilitators to facilitate 10 hires on HireVibes DAPP will automatically be elected as Lead Recruiters
+Lead Recruiters will provide a Screening Function to the application process that’s open to all Recruitment Facilitators to apply to be listed on HireVibes Dapp.
+- When the 100 Lead Recruiters are elected, at this stage, any user can still apply to be a Recruitment Facilitator on the HireVibes Dapp, but each applicant must pass a screening process led by the Lead Recruiters to get listed.
+- The Lead recruiters must interview and screen new Recruitment Facilitators who want to be added to the HV Dapp and propose a hire is made to the Lead Recruiting team
+- It will be mandatory that at least 3 other Lead Recruiters must review, vote and reach consensus on hiring each new Recruitment Facilitator before they join HireVibes Dapp
+
+2. **Funding the Decentralised Recruiting Team and Quality Control system**
+
+- When posting a job ad, hirers can select and pay for a Recruitment Facilitator service for an added 2.5% token amount if they require this extra service. This will bring the total cost to the Hirer to a 10% token amount based on the salary or rate on offer.
+- Out of this 2.5% token amount; Recruitment Facilitators get rewarded a 2% token amount upon successes, the remaining 0.5% token amount will go to a smart contract to fund the Quality Control System.
+- For every new Recruitment Facilitator hired by the Lead Recruiting team; the Lead Recruiter responsible will get rewarded a 0.5% token amount per addition.
+- This means that the DRT and the Quality Control system to accompany it; can be funded by itself, grow organically and it won’t need to rely on HireVibes DAC to fund it.
+- All Recruitment Facilitators will join a ‘league table’ whereby the best Recruiters (ones with best reputations and most job fills) will be known and respected by the HireVibes community (DAC)
+- These two rewards (recognition rewards and token rewards) will further encourage competition among all the Recruiters to improve their performances and the quality of their service.   
+- The Recruiters at the top of the league table will be seen as huge contributors as they will have helped generate large amounts of resources for qualified charities and initiatives. This will be visible to all HireVibes Dapp users.
+
+3. **Replacing Lead Recruiters**
+
+- There will be a monthly or quarterly voting process whereby all HV token holders (HV DAC) can propose and vote in new Lead Recruiters to HireVibes Dapp. 
+- Only Recruiters that have filled 10 jobs can qualify to be elected as a Lead Recruiter on HireVibes Dapp.
+
+4. **Quality Control Tools for Recruitment Facilitators**
+
+- The Recruiters listed on HireVibes Dapp could utilise a CRM tool and agree to maintain it themselves.
+- This should be a simple Customer Relationship Management tool that would help prevent Recruitment Facilitators contacting the same potential Hirer multiple times.
+- The HireVibes Launch team may build one or source a suitable CRM for the DRT to use.
+
+
 ## 11. Marketing Strategy
 Outbound marketing: The HireVibe Recruiter team will be tasked with adding new jobs and Employers to HireVibes Dapp. This team will be like a global sales / customer service team who will:
 
