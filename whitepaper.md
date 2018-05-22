@@ -141,7 +141,7 @@ The quantity of Job Openings listed on HireVibes Dapp will grow overtime due to:
 - A one-off 2% HVT reward to every user that refers a Hirer that successfully recruits on HireVibes Dapp ([Hirer Referral Reward](hirer-referral-reward.md))
 2. Inbound marketing 
 - The Candidate Referrals Rewards on offer are a natural way to attract new users to HireVibes Dapp
-Showing statistics and content of the HireVibes Donation portal impact across social media
+- Showing statistics and content of the HireVibes Donation portal impact across social media
 3. Growing a Decentralised Recruiting Team 
 - Please see below
 
