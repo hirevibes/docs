@@ -81,21 +81,21 @@ B) If the placed candidate was referred to the job ad at the beginning of the pr
 * (1%) donation fund is sent to the placed candidate for donating to Humanitarian and Environmental initiatives and eco-friendly projects of their choice using (HVT)
 
 ## 5. Payment terms based on Job type
-HireVibes Dapp will add in a lock-in period to all contracts made between a hirer and a candidate. Meaning; each successful candidate won’t receive their HVT token reward immediately. This reduces the risk of a candidate taking a job just so they can get their HVT and leave.  Escrow services will also be in-built to the HireVibes freelance model.
-- Permanent = 30 Days lock-in period 
+HireVibes Dapp will add in a lock-in period to all contracts made between a hirer and a candidate. Meaning; each successful candidate won’t receive their HVT token reward immediately. This reduces the risk of a candidate taking a job just so they can get their HVT reward and leave. Escrow services will also be in-built into freelance roles on HireVibes.
 
-Meaning when a new hire starts a perm role they found on HireVibes; that user will receive their 5% HVT reward 30 days after start date 
-(no payroll option, just a 7.5% token amount)
+- Permanent roles = 30 Days lock-in period, paid in 3 instalments
+  * When start date is activated, an invoice will be automatically generated and issued to the ‘client’. The client has 30 days to pay this invoice. When a client pays within 30 days, only 50% is paid to successful candidate at the 30 day point, the remaining will be held in escrow by HireVibes Dapp.
+  * When a candidate reaches 60 days in the jobs, the next 25% will be released
+  * When a candidate reaches 90 days, the last 25% will be released to the candidate
 
-- Contract = 14 Days lock-in period
+- Contract roles (contracts over 30 days) = 15 Days lock-in period, paid in 3 instalments
+   * When start date is activated, an invoice will be automatically generated and issued to the ‘client’. The client has 15 days to pay this invoice. When a client pays within 15 days, only 50% is paid to successful candidate at the 15 day point, the remaining will be held in escrow by HireVibes Dapp.
+  * When a candidate reaches 30 days into the contract, the next 25% will be released
+  * When a candidate reaches 45 days into the contract, the last 25% will be released to the candidate
+  
+-  Freelance roles (contracts less than 30 days)= 7 days lock in period, paid in 1 instalment
 
-Meaning when a new Contractor starts a contract role they found on HireVibes; that user will receive their 5% HVT reward 14 days after start date 
-(payroll option and 7.5% token amount)
-
-- Freelance = 7 days lock in period 
-
-Meaning when a Freelancer starts a freelance role they found on HireVibes; that user will receive their 5% HVT reward 7 days after start date 
-(payments and 7.5% token amount)
+Meaning when a Freelancer starts a freelance role they found on HireVibes; that user will receive their 5% HVT reward 7 days after start date.
 
 ## 6. Value Proposition 
 
