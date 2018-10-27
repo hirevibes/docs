@@ -6,7 +6,7 @@ New Hirers will be attracted to recruit on HireVibes Dapp for a number of reason
 
 To name a few: Intuitive user interface, Quality of candidates, Cost reduction, Social engagement through referrals and positive PR and CSR generation via the Donation feature. 
 
-However, to drive new Hirers to HireVibes Dapp at a faster rate, the HV Launch Team have designed a **2% HVT Hirer Referral Reward** which can be funded by the HV Treasury fund.
+However, to drive new Hirers to HireVibes Dapp at a faster rate, the HV Launch Team have designed a **2% HVT Hirer Referral Reward**, which will be funded out of the **2.5% fee** earned by HireVibes.
 
 This reward entails that any user will be able to refer a Hirer to HireVibes Dapp and earn a 2% HVT reward when that Hirer makes a successful hire. Success will be determined if and when that Hirer makes a hire successfully on HireVibes Dapp and the new hire completes the guarantee period relevant to the job type. (see section 5 of HireVibes whitepaper)
 
