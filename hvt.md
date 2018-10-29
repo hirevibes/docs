@@ -29,15 +29,3 @@ The HireVibes DAC (decentralised autonomous community) can vote to:
 * Anything else the community votes (This includes the option of additional distribution of surplus tokens back to the HVT token holders)
 
 `The vote will be based on proportional representation of stake in HVT.`
-
-#### Legal Entity 
-
-A legal entity currently being set-up will be the entity that issues and distributes all HireVibe Tokens (HVT) at one time only as a free gift to the community.
-
-A Non Profit Foundation also is currently being set up to act as an interface between HireVibes DAC and the legal system. All code related to HireVibes Dapp and HVT will be made open source before launching.
-
-We are working with our legal partners to create a full list of Terms of Use for HireVibes Tokens. 
-
-##### Disclaimer       	
-THE WEBSITES: [EOSVibes.io AND HireVibes.io] AND THIS DOCUMENT AND ALL DATA, PRODUCTS AND SERVICES PROVIDED THROUGH THESE  WEBSITES AND THIS DOCUMENT  ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS WITHOUT ANY WARRANTIES, REPRESENTATIONS, PROMISES OR GUARANTEES WHATSOEVER OF ANY KIND INCLUDING, WITHOUT LIMITATION, ANY, WARRANTIES, REPRESENTATIONS, PROMISES OR GUARANTEES REGARDING THE ACCURACY, CURRENCY, COMPLETENESS, ADEQUACY, AVAILABILITY, SUITABILITY OR OPERATION OF THESE WEBSITES, THIS DOCUMENT AND ANY PRODUCTS OR SERVICES WE (The HV Launch team) MAY PROVIDE THROUGH IT OR THE INFORMATION OR MATERIAL IT CONTAINS.
-
