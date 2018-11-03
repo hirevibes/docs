@@ -3,9 +3,10 @@ There will be a <u>350 million</u> total fixed supply of HVT, No more HVT will e
 
 ## HVT will be distributed as Follows:
 
-1. **Free Airdrop:** 250 million HVT (71.43%) to be Airdropped to all EOS Token Holders within 90 days of the EOS blockchain launch.
-2. **HV Launch Team:** 50 million HVT (14.285%) to be distributed to the HireVibes Launch Team.
-3. **HV Treasury Fund:** 50 million HVT (14.285%) to be held in a HireVibes DAC Treasury smart contract. The HireVibes community can propose and vote on the strategic usage of these tokens.
+* 250 million HVT (71.43% of the supply) will be airdropped to the EOS community - see the Airdrop section below for more details
+* 50 million HVT ( 14.29% of the supply) will be allocated to the HireVibes launch team using a vesting schedule
+* 40 million HVT (11.43% of the supply) will be allocated to the HireVibes partnership fund which will be managed by HireVibes Foundation; the partnership fund exists to secure the partners that will support the DAPP and build the HireVibes ecosystem
+* 10 million HVT (2.86% of the supply) will be used to setup the HireVibes Foundation; the HireVibes Foundation is responsible for ongoing DAPP development and exists to support the growth of the HireVibes ecosystem
 
 ## HireVibes Launch Team Vesting schedule:
 * The HV Launch team will receive 40% of their individual stakes upon the HireVibes Dapp launching.
