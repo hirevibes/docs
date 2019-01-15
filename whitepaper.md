@@ -1,8 +1,6 @@
 # HIREVIBES WHITEPAPER
 
-**Created by:** Daniel Dunne & Daniel Beere
-
-**Version:** 1.2
+**Version:** 1.3
 
 ## Mission 
 HireVibes leverages the power of crowdsourcing to help people find great jobs and companies build great teams; and give back to the global community.
