@@ -25,7 +25,6 @@ Our vision is to be the platform for all industries to connect any type of talen
     * Freelance Job Terms
     * Token Reward Bonus
 5. [Growth](#05-growth)
-    * Recruitment Team
     * Marketing Strategy
 6. [Product Roadmap](#06-product-roadmap)
     * Product Roadmap
