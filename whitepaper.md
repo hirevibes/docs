@@ -156,35 +156,27 @@ The hirer and freelancer will agree to the total price of the project prior to t
 The bonus amount is calculated based on the total rate of the job, whether fixed or hourly.
 
 ## 05. Growth
-**Recruitment Team**
+To build an initial employer base, the HireVibes Foundation will partner with several blockchain entities (ranging from Dapps to Block producers) to onboard their open roles to the platform.
 
-To build an initial employer base, the HireVibes Foundation will partner with Vibes Services Ltd, a development and consulting company that will grow a team of professional recruitment facilitators (Sourcers and Consultants) to drive new clients to HireVibes Dapp. These Recruiters will be incentivised to grow their own network and business within the wider HireVibes network by building relationships with their local talent and local employers to facilitate their hiring needs via the HireVibes Dapp. 
+Once a base level has been reached, individual recruiters will be incentivised to grow their own network and business within the wider HireVibes network by building relationships with their local talent and local employers to facilitate their hiring needs via the HireVibes Dapp.
 
-If an employer opts to pay for recruiter facilitation, HV Recruiters will be available to assist for an additional fee [min 2.5% - max 7.5%]. The exact fee is to be agreed on between the Recruiter and the employer.
-
-This additional facilitation service provided by a Recruiter will bring the total cost to the employer to 10% - 15% of the salary/rate of each job. This is significantly less than the global average fee charged by traditional, centralized employment agencies of 20% - 30%+ on permanent and contract jobs.  
 
 **Marketing Strategy**
 
-Outbound Marketing:
-
-The HV Recruiter team will be tasked with adding new jobs and employers to the HireVibes Dapp. This team will be like a global sales/customer service team responsible for:
-  * Pitching our cost-effective service to new hirers to advertise their job vacancies on the HireVibes Dapp
-  * Upselling recruitment facilitation for an extra 2.5% - 7.5% fee
-  * Share job posts across social media to generate attention and CV applications
-  * Source candidates to submit CVs/apply to roles through the HireVibes Dapp
-
 Inbound Marketing:
-  * Organic acquisition driven by high quality job postings on HireVibes
-  * Contextual content marketing via blogging, social media and email campaigns, content to include:
-  * Affiliate partnership announcements, including new environmental and humanitarian initiatives and new employers that join the HireVibes Dapp
-  * Partnerships announcements that expand the use of the HireVibes Token
-  * Sharing key information to our community including a live counter covering statistics of the crypto rewards earned by jobseekers and referrers, and the positive impact generated from donations
+
+* Organic acquisition driven by high quality job postings on HireVibes
+* Contextual content marketing via blogging, social media and email campaigns, content to include:
+* Affiliate partnership announcements, including new environmental and humanitarian initiatives and new employers that join the HireVibes Dapp
+* Partnerships announcements that expand the use of the HireVibes Token
+* Sharing key information to our community including a live counter covering statistics of the crypto rewards earned by jobseekers and referrers, and the positive impact generated from donations
 
 Referral Marketing:
-  * The core referral mechanism of HireVibes will drive new jobseekers and employers to the HireVibes Dapp with a network effect
+
+* The core referral mechanism of HireVibes will drive new jobseekers and employers to the HireVibes Dapp with a network effect
 
 ## 06. Product Roadmap and Launch Schedule
+
 **Product Roadmap**
 
 The HireVibes roadmap can be found at [hirevibes.io](https://hirevibes.io). An updated roadmap will be released soon.
@@ -248,46 +240,11 @@ In addition to the utility of the HireVibes token, an additional mechanism is bu
 This is similar to the EOS requirement for developers to buy EOS tokens and stake them to get RAM to power their apps.
 
 **How is the employer fee distributed?**  
-Employers pay a 7.5% fee in HVT when they hire someone through the HireVibes Dapp; this fee is then distributed per the below:
+Employers pay a 5.5% fee in HVT when they hire someone through the HireVibes Dapp; this fee is then distributed per the below:
 
-  * 4% is a token reward and goes directly to the successful job candidate; if the candidate was referred to the role, this reward will be split - 2% goes to the successful job candidate and 2% goes to the referrer
-  * 1% is a donation reward; the successful job candidate can choose which charity to donate to through the HireVibes Dapp
-  * 1.25% is allocated to the treasury fund; after operating costs (i.e. RAM), the usage of this allocation is determined by the DAC as outlined by the HireVibes Constitution (to be released in 2019)
-  * 1.25% is allocated to the daily token distribution fund and will be automatically distributed daily to token holders once a daily threshold is reached
-
-**How does the daily token reward work?**
-
-Tokens will be distributed each day that a minimum threshold is met. If the minimum threshold is not met, the amount will rollover into the next day and be distributed once the threshold is met.
-
-Further details will be provided in the HireVibes Constitution, to be declared in 2019.
-
-
-## 09. Giving Back
-What charities does HireVibes partner with? How are new charities selected?
-
-Wells for Zoë is our first charity partner; it is an Irish volunteer organization working in Northern Malawi since 2005. New charities will be reviewed by The HireVibes Foundation and then voted on by the DAC.
-
-**Donation Tracking**
-
-All recipients of donations will be required to provide proof of how the donation was spent as part of the smart contract agreement.
-
-**Positive Impact Projections**
-
-These are estimated projections to be generated through the HireVibes Dapp Donation Portal based off the projected HV Recruiters’ Target (not final) KPIs.
-
-Using [WeForest.org](http://weforest.org), an organization that plants 1 tree for 1 euro, as a beneficiary of the 1% donation fund this is the potential impact:
-
-![image1](assets/image2.png)
-
-Using WellsForZoe as the beneficiary of the 1% donation fund; an organization that constructs wells in East Aftrica, for €250 to provide water for 300 people for life.
-
-![image1](assets/image1.png)
-
-**To summarize:**
-
-* A team of 100 HireVibes Recruiters would help provide water for life to 75,000 people per week, 300,000 people per month, 3.6 million+ people per year.
-
-* A team of 10,000 recruiters (close to a top 5 recruitment agency size), using the WellsForZoe model would equate to 360 million people annually would be guaranteed water for life.
+* 3.5% is a token reward and goes directly to the successful job candidate; if the candidate was referred to the role, this reward will be split - 1.75% goes to the successful job candidate and 1.75% goes to the referrer
+* 1% is a donation reward; the successful job candidate can choose which charity to donate to through the HireVibes Dapp
+* 1% HVT reward to HireVibes DAC EOS Account for community voting
 
 ## 10. Contact Us
 
