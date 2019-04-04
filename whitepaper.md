@@ -62,7 +62,7 @@ HireVibes is a marketplace that will empower --
 People to: 
   * Find jobs with the help of peers via targeted and private referrals
   * Get paid in cryptocurrency (and fiat tbc)
-  * Earn more with a 4% bonus in HireVibes Tokens (HVT) on top of pay (split if referred to the role)
+  * Earn more with a 3.5% bonus in HireVibes Tokens (HVT) on top of pay (split if referred to the role)
   * Give back - A donation amount equivalent to 1% of the annual rate or salary will by securely donated to a humanitarian and environmental initiative of the hired candidate’s choice
 
 Individuals, teams, startups, businesses, non-profits and other DACs to:
@@ -90,19 +90,20 @@ HireVibes aspires to be a platform utilized across all industries and will pursu
 
 **Employers**
 
-HireVibes Dapp will be a single place where a hirer can advertise for free, find qualified candidates, manage CV applications, communicate in-app, and hire and pay securely; consistently make the right hires in an efficient, brand-empowering and cost-effective way. The cost of using HireVibes is half the cost compared to the 20% industry average fee on permanent jobs, and much less than half of the 25% - 30% average fee charged by centralized agencies on contract jobs.
+HireVibes Dapp will be a single place where a hirer can advertise for free, find qualified candidates, manage CV applications, communicate in-app, and hire and pay securely; consistently make the right hires in an efficient, brand-empowering and cost-effective way. 
+
+The cost of using HireVibes is half the cost compared to the 20% industry average fee on permanent jobs, and much less than half of the 25% - 30% average fee charged by centralized agencies on contract jobs.
 
   * Post jobs for free
-  * Pay 7.5% only when a position is filled
+  * Pay 5.5% (up to max 10%) only when a position is filled
   * Find qualified candidates based on peer referrals
-  * Opt to hire an industry-specific recruiter bringing the total possible cost to a 10% - 15% fee
   * Pay in cryptocurrency or fiat currency
  
 **Jobseekers**
 
 By involving peer referrals and crowdsourcing in the hiring process, jobseekers are more likely to find a great fit with the right employer and the right role - this leads to greater job satisfaction and retention for the employer. Additionally, the jobseeker receives a bonus by using the HireVibes platform.
 
-  * Earn a 4% token reward when hired through the platform; if referred to the role, the reward is split with the referrer
+  * Earn a 3.5% token reward when hired through the platform; if referred to the role, the reward is split with the referrer
   * When hired, earn a 1% donation reward to contribute to the charity of your choice
   * Get paid in cryptocurrency or fiat
 
@@ -115,27 +116,30 @@ The platform encourages recruiters to build their business connecting hirers and
 When it comes to sourcing technical IT talent, for example, other technical talent themselves are the best people to find top-qualified peers because they are the domain experts in this field - they know the job spec and required profile. By utilizing peer-referrals, employers will gain access to a wider network of domain experts to source the talent they are looking for. The referrers are rewarded for any candidate they recommend who is successfully hired.
 
 ## 04. Service Fee and Bonus Terms
-Below are the details on the terms for the 7.5% service fee for hirers and the bonus for new employees for permanent, contract and freelance jobs. Permanent and contract jobs are considered those that last longer than three months; freelance projects have a duration of less than three months. Freelance hires can be paid an hourly rate or an agreed on fixed rate for a project.
+Below are the details on the terms for the 5.5% service fee for hirers and the bonus for new employees for permanent, contract and freelance jobs. Permanent and contract jobs are considered those that last longer than three months; freelance projects have a duration of less than three months. Freelance hires can be paid an hourly rate or an agreed on fixed rate for a project.
 
 **Permanent and Contract Job Terms**
 
 First 30 Days
-  * Employers will receive an invoice on the new hire start date; the 7.5% fee is required to be paid within 30 days
-    * If a hired candidate accepts and starts a job but leaves within the first 30 days, the employer or candidate must contact HireVibes customer support and the invoice will be cancelled
+
+* Employers will receive an invoice on the new hire start date; the 5.5% fee is required to be paid within 30 days
+  * If a hired candidate accepts and starts a job but leaves within the first 30 days, the employer or candidate must contact HireVibes customer support and the invoice will be cancelled
     * If a hired candidate accepts and starts a job but leaves between 30 and 60 days, the remaining 50% to be paid to candidate will be refunded to the employer
     * If a hired candidate accepts and starts a job but leaves between 60 and 90 days, the remaining 25% to be paid to the candidate will be refunded to the employer
-  * New hires will receive a 2% token reward (50% of the total token reward) after they complete their first 30 days (dependent on receipt of employer fee)
-    * If a referrer was involved in the hiring process, the 2% token reward will be split and paid at this time
+  * New hires will receive a 1.75% token reward (50% of the total token reward) after they complete their first 30 days (dependent on receipt of employer fee)
+    * If a referrer was involved in the hiring process, the 1.75% token reward will be split and paid at this time
 
 Days 30 - 60
-  * The next bonus reward will be paid to the new hire when they complete 60 days of employment; this will be a 1% token reward (25% of the total token reward)
-    * If a referrer was involved in the hiring process, the 1% token reward will be split and paid at this time
+
+* The next bonus reward will be paid to the new hire when they complete 60 days of employment; this will be a 1% token reward (25% of the total token reward)
+  * If a referrer was involved in the hiring process, the 1% token reward will be split and paid at this time
 
 Days 60 - 90
-  * The next bonus reward will be paid to the new hire when they complete 90 days of employment; this will be a 1% token reward (25% of the total token reward)
-    * If a referrer was involved in the hiring process, the 1% token reward will be split and paid at this time
+
+* The next bonus reward will be paid to the new hire when they complete 90 days of employment; this will be a 0.875% token reward (25% of the total token reward)
+  * If a referrer was involved in the hiring process, the 0.875% token reward will be split and paid at this time
   * The 1% donation reward will be paid to the charity the new hire selected after they complete 90 days in the role
-  * HireVibes DAC will receive its 2.5% token fee after a 90 day term has completed
+  * HireVibes DAC will receive its 1% token fee after a 90 day term has completed
 
 **Freelance Job Terms**
 
