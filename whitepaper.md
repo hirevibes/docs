@@ -209,14 +209,13 @@ The HireVibes DAC is the community of HVT token holders who stake their tokens a
 
 **What power does the DAC have?**
 
-The HireVibes DAC can vote on any item that affects HireVibes DAC and Dapp. Voting rights are based on the proportional representation of the stake in HVT. Items that can be voted on include, but are not limited to:
-  * Support, grow or create humanitarian and environmental initiatives
-  * Grow the HireVibes ecosystem
-  * Make improvements to the jobs Dapp
-  * Create educational programs
-  * Purchase property for the benefit the of HireVibes ecosystem
-  * Additional token distributions to token holders
-  * Any other proposal created by the community can be voted on
+The HireVibes DAC can vote on almost every item that affects HireVibes. Voting rights are based on the proportional representation of the stake in HVT. Items that can be voted on include, but are not limited to:
+
+* Burn HVT in HireVibes DAC EOS Account
+* Support, grow or create humanitarian and environmental initiatives
+* Grow the HireVibes ecosystem
+* Create educational programs
+* Purchase property for the benefit the of HireVibes ecosystem
 
 **What are the responsibilities of the HireVibes Foundation?**
 
