@@ -1,3 +1,3 @@
 # Documents
-* [HireVibes Tokens (HVT)](hvt.md)
-* [HireVibes Whitepaper](whitepaper.md)
+* [HireVibes cookie policy](HireVibes-cookie-policy.pdf)
+* [HireVibes privacy policy](HireVibes-privacy-policy.pdf)
